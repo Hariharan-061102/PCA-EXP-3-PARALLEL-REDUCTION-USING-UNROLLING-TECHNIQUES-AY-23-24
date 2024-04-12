@@ -50,7 +50,7 @@ Memory Deallocation
 28.	Return from the main function.
 
 ## PROGRAM:
-```cudaC
+```cuda C
 %%cuda
 #include <stdio.h>
 #include <cuda_runtime.h>
